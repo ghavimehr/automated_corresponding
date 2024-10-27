@@ -1,0 +1,22 @@
+# Exclude specific files
+config.py
+.env
+
+# Exclude all files with a specific extension
+*.log
+*.html
+*.db
+*.csv
+*.json
+*.txt
+Ehsan_Ghavimehr*
+
+# Exclude a specific directory
+/data/
+/backups/
+/staging/
+/__pycache__/
+
+# Exclude all files in a folder
+
+
