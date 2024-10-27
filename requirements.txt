@@ -1,0 +1,13 @@
+beautifulsoup4==4.8.2
+Bio==1.7.1
+biopython==1.84
+google_search_results==2.4.2
+habanero==1.2.6
+html2text==2024.2.26
+openai==1.52.2
+pdfplumber==0.11.4
+python-dotenv==1.0.1
+Requests==2.32.3
+scholarly==1.7.11
+serpapi==0.1.5
+Unidecode==1.2.0
